@@ -1,6 +1,6 @@
 # 🐼 Sachin Borse
 
-`Backend Developer | Golang | Rust | Blockchain Enthusiast `
+`Backend Developer | Golang | Rust | BIM | Tech Enthusiast `
 
 Hi there, I'm Sachin Borse! 👋
 I'm a passionate backend developer with a keen interest in blockchain technology and Web3. Currently, I'm actively seeking opportunities in the backend development or blockchain domains to kickstart my career journey. I'm a dedicated learner.
