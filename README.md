@@ -1,6 +1,6 @@
-# 🐼 Sachin Borse
+# Sachin Borse
 
-`Backend Developer | Golang | Rust | Blockchain | solana | Tech Enthusiast `
+`Backend Developer | Golang | Rust | Blockchain | Tech Enthusiast `
 
 Hi there, I'm Sachin Borse! 👋
 I'm a passionate backend developer with a keen interest in blockchain technology and Web3. Currently, I'm actively seeking opportunities in the backend development or blockchain domains to kickstart my career journey. I'm a dedicated learner.
@@ -12,6 +12,11 @@ I'm a passionate backend developer with a keen interest in blockchain technology
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
 
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+
+<img align="left" alt="typescript"  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+
+<img align="left" alt="React"  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
 
 <img align="left" alt="rust" width="35px" style="padding-right:10px;"  src="https://storage.googleapis.com/sticker-prod/3aof1uO8djechjc2XRDE/1.png" />
 
@@ -31,19 +36,16 @@ I'm a passionate backend developer with a keen interest in blockchain technology
 
 <img align="left" alt="docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
 
-
 <img align="left" alt="aws" width="30px" style="padding-right:10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
           
-          
-
-
-
 <img align="left" alt="mongodb" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
 
 <img align="left" alt="postgresql" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
 
-
 <img align="left" alt="postman" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+
+
+
 
 <br />
 <br />
