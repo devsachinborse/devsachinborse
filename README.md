@@ -17,12 +17,9 @@ I'm a passionate backend developer with a keen interest in blockchain technology
 
 <img align="left" alt="React"  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
-
 <img align="left" alt="rust" width="35px" style="padding-right:10px;"  src="https://storage.googleapis.com/sticker-prod/3aof1uO8djechjc2XRDE/1.png" />
 
 <img align="left" alt="solidity" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-plain.svg" />
-
-<img align="left" alt="solidity" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
