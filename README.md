@@ -1,25 +1,24 @@
 # Sachin Borse
 
-`Backend Developer | Java | Golang | Tech Enthusiast `
+`Backend Developer | Java | Golang | C# | Tech Enthusiast `
 
 Hi there, I'm Sachin Borse! 👋
 I'm a passionate backend developer with a keen interest in blockchain technology and Web3. Currently, I'm actively seeking opportunities in the backend development or blockchain domains to kickstart my career journey. I'm a dedicated learner.
 
 ****
-
+csharp/csharp-original.svg
+dotnetcore/dotnetcore-original.svg
 ### 🧰 Languages and Tools
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
 
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-
-<img align="left" alt="typescript"  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-
 <img align="left" alt="React"  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-
-<img align="left" alt="rust" width="35px" style="padding-right:10px;"  src="https://storage.googleapis.com/sticker-prod/3aof1uO8djechjc2XRDE/1.png" />
-
-<img align="left" alt="solidity" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-plain.svg" />
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
