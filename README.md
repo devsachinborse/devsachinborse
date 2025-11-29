@@ -3,7 +3,7 @@
 `Backend Developer | Java | Golang | C# | Tech Enthusiast `
 
 Hi there, I'm Sachin Borse! 👋
-I'm a passionate backend developer with a keen interest in blockchain technology and Web3. Currently, I'm actively seeking opportunities in the backend development or blockchain domains to kickstart my career journey. I'm a dedicated learner.
+I'm a passionate backend developer with strong skills in Java (Spring Boot), ASP.NET Core, and Golang. I'm actively seeking opportunities in backend development to kickstart my career journey. I'm a dedicated learner who constantly works on improving my skills and building real-world projects.
 
 ****
 csharp/csharp-original.svg
